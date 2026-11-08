@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible issue in ezmock
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Expected vs actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: SDK version, sample route and sanitized JSON
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform / SDK version
