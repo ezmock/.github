@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://assets.ezsoft.ca/logos/ezmock-logo.svg" alt="ezmock logo" width="128" />
+  <img src="https://assets.ezsoft.ca/logos/ezmock-logo.svg" alt="EZMock logo" width="128" />
 </p>
 
-<h1 align="center">ezmock</h1>
+<h1 align="center">EZMock</h1>
 <p align="center"><strong>Mock APIs. Build independently.</strong></p>
 <p align="center">
   Open-source, developer-first API mocking SDKs for native and cross-platform applications.
@@ -12,7 +12,7 @@
 
 ### 🚀 Build features without waiting for the backend
 
-**ezmock** helps developers build and test API-driven features even when endpoints are unfinished, staging environments are down, or failure scenarios are difficult to reproduce.
+**EZMock** helps developers build and test API-driven features even when endpoints are unfinished, staging environments are down, or failure scenarios are difficult to reproduce.
 
 The goal is simple: keep your application's real HTTP client, repositories, and data models, while using **local JSON fixtures** to simulate HTTP responses. No separate mock server, proxy, Docker container, or live API is required.
 
@@ -24,13 +24,13 @@ The goal is simple: keep your application's real HTTP client, repositories, and 
 - 💻 **Work offline.** Run repeatable API-driven workflows in emulators and simulators using bundled fixtures.
 - 🔁 **Stay consistent across platforms.** Share route definitions and scenario behavior through a common specification.
 
-### 🔄 How ezmock works
+### 🔄 How EZMock works
 
 ```text
-HTTPS request → ezmock adapter → Local JSON fixture → Simulated HTTP response
+HTTPS request → EZMock adapter → Local JSON fixture → Simulated HTTP response
 ```
 
-Define an endpoint, add its response fixture, select a scenario, and run your app. When mock mode is enabled, an ezmock adapter handles matching requests locally; otherwise, your configured client can use its normal networking path.
+Define an endpoint, add its response fixture, select a scenario, and run your app. When mock mode is enabled, an EZMock adapter handles matching requests locally; otherwise, your configured client can use its normal networking path.
 
 **Same data layer. Different response source.**
 
@@ -52,7 +52,7 @@ Our shared direction includes fixture-based routing, configurable responses and 
 
 Explore the project, report issues, propose integrations, and help make API-independent development easier for everyone.
 
-> **Project status:** ezmock is in early development. SDK APIs and distributions may change before the first stable releases.
+> **Project status:** EZMock is in early development. SDK APIs and distributions may change before the first stable releases.
 
 ---
 

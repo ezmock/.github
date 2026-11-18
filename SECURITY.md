@@ -1,6 +1,6 @@
 # Security policy
 
-ezmock is a development-oriented HTTP simulation library. Its mock SDKs can bypass real network transport **only when developers explicitly configure them**; do not enable them in production by accident.
+EZMock is a development-oriented HTTP simulation library. Its mock SDKs can bypass real network transport **only when developers explicitly configure them**; do not enable them in production by accident.
 
 Before a public security contact email is activated, use the affected repository's **GitHub private vulnerability reporting** feature (Settings → Code security → Private vulnerability reporting). Do not publish exploitable vulnerabilities as public issues.
 

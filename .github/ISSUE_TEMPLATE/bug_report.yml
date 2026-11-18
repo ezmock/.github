@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible issue in ezmock
+description: Report a reproducible issue in EZMock
 labels: [bug]
 body:
   - type: textarea

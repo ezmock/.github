@@ -1,6 +1,6 @@
-# Contributing to ezmock
+# Contributing to EZMock
 
-Thank you for improving ezmock.
+Thank you for improving EZMock.
 
 1. Open an issue in the **affected SDK or specification** repository before large breaking changes.
 2. Behavior changes start with `ezmock-spec`; update the schema, examples, conformance vectors and version notes.
